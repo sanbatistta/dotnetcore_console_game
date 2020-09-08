@@ -15,7 +15,7 @@ namespace GameTOP
             Console.WriteLine(_jogadorA.Corre());
             Console.WriteLine(_jogadorA.Chuta());
             Console.WriteLine(_jogadorA.Passa());
-            System.Console.WriteLine("\nKEKWKEKW \n");
+            System.Console.WriteLine("\n \n");
             Console.WriteLine(_jogadorB.Corre());
             Console.WriteLine(_jogadorB.Chuta());
             Console.WriteLine(_jogadorB.Passa());
